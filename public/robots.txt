@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://uvtabasco.edu.mx/sitemap.xml
+Sitemap: https://uvtabasco.ideasdisruptivas.com/sitemap.xml
